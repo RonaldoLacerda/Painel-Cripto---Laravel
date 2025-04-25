@@ -4,9 +4,9 @@ O Painel Cripto é uma aplicação web desenvolvida com Laravel que fornece info
 
 🛠 Tecnologias Utilizadas
 Backend
-PHP 8+: Linguagem de programação utilizada para o desenvolvimento.
+PHP: Linguagem de programação utilizada para o desenvolvimento.
 
-Laravel 10+: Framework PHP utilizado para estruturar a aplicação.
+Laravel: Framework PHP utilizado para estruturar a aplicação.
 
 GuzzleHTTP: Cliente HTTP utilizado para fazer chamadas à API externa.
 
