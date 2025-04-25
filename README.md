@@ -27,3 +27,7 @@ CoinMarketCap API: Fornece dados atualizados sobre criptomoedas (cotações, cap
 NewsAPI: Integração para obter notícias sobre criptomoedas.
 
 MyMemory Translation API: API usada para traduzir notícias sobre criptomoedas.
+
+
+----
+Página Inicial: resources/views/crypto/index.blade.php
