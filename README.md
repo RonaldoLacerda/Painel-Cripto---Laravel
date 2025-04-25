@@ -31,4 +31,5 @@ MyMemory Translation API: API usada para traduzir notícias sobre criptomoedas.
 
 ----
 Página Inicial: resources/views/crypto/index.blade.php
+
 Controller: app/Http/Controllers/CryptoController.php
